@@ -1,1 +1,1 @@
-git is somtimes confusing.
+getting things wrong 
